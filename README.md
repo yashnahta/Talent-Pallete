@@ -76,6 +76,3 @@ npm start
 
 
 Run: http://3.134.245.199
-
-
-[![Quality Gate Status](https://dgp-admin-tools.dawnfoods.com/sonar/api/project_badges/measure?project=b2b-customer&metric=alert_status&token=sqb_4b8ae916eca731f23aaa326172a977ebf2a26626)](https://dgp-admin-tools.dawnfoods.com/sonar/dashboard?id=b2b-customer)
